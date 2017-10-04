@@ -1,0 +1,29 @@
+h1{
+	background-color: yellow; 
+	color: grey;
+	font-family: courier;
+	font-size: 50px;
+}  
+
+h2{
+	background-color: grey;
+	font-family: courier;
+	font-size: 25px;
+	color: yellow;
+}
+
+body{
+	text-align: center;
+	border: 2px solid;
+	font-family:courier; 
+	font-size:15px;
+    border-top-right-radius: 10em;
+    border-top-left-radius: 10em;
+    border-bottom-left-radius: 10em;
+    border-bottom-right-radius: 10em;
+    background-color: grey);
+    color: black;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+}
+

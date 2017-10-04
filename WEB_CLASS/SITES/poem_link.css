@@ -1,0 +1,21 @@
+body{
+	background-image: url("images/Concrete_background.jpg");
+	font-family:courier;
+}
+
+h1{
+	font-size:70px;
+	text-align:center;
+	color:white;
+}
+h2{
+	font-size:70px;
+	text-align:center;
+	color: white;
+
+}
+p{
+	font-size:20px;
+	background-color:yellow;
+	color:black;
+}

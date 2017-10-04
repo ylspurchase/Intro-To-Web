@@ -1,0 +1,54 @@
+body{
+	background-image: url("../SITES/wormz.png");
+}
+
+h1{
+	text-align: center;
+}
+
+img{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+/*unvisited link */
+a img:link{
+
+}
+
+a img: visited{
+
+}
+
+a img: active{
+
+}
+
+a img: hover{
+	opacity: 0.5;
+}
+#choices{
+	text-align: center;
+}
+
+#choices img{
+	border: 
+}
+#content{
+
+	width: 800px;
+	text-align: center;
+	padding: 20px 20px 100px 20px;
+	margin: 100px auto 0 auto;
+	padding: 20px;
+}
+
+.blue {
+	background-color: rgb(249, 230, 144);
+
+}
+
+.pink{
+	background-color: 
+
+}
